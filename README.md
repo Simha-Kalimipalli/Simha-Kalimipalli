@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Simha.
+I'm interested in Data Science and Geo - analytics.
+
+I code mostly in python, HTML and CSS.
+please find my code below
 
 <!--
 **Simha-Kalimipalli/Simha-Kalimipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

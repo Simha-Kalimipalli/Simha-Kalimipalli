@@ -2,7 +2,11 @@
 I'm interested in Data Science and Geo - analytics.
 
 I code mostly in python, HTML and CSS.
-please find my code below
+
+Please find my code below:
+
+[![Simha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Simha-Kalimipalli/Simha-Kalimipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

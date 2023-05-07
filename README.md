@@ -1,11 +1,14 @@
 ### Hi there 👋 I am Simha.
 I'm interested in Data Science and Geo - analytics.
+[![Simha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
 
-I code mostly in python, HTML and CSS.
+
+I code mostly in python. HTML and CSS too!. I use python data science APis like sklearn and tensorflow.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Please find my code below:
-
-[![Simha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

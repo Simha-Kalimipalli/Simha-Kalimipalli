@@ -1,11 +1,10 @@
 ### Hi there 👋 I am Simha.
-I'm interested in Data Science and Geo - analytics.
-
 
 [![Simha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm interested in Data Science and Geo-analytics. My primary focus is in Multi-Domain Machine Learning research roles. Check out some of the things I've hacked below:
 
-I code mostly in python. HTML and CSS too! I use python data science APIs like sklearn and tensorflow.
+
 <!--https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 -->

@@ -8,15 +8,13 @@ I'm interested in Multi-Domain Machine Learning research using techniques such a
 
 My research interest areas include applications to transportation, energy and healthcare infrastructure. 
 
-
-. Check out some of the things I've made below:
+Check out some of the things I've made below:
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 
 <!--https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 -->
 
-
-Please find my code below:
 <!--
 https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
 -->

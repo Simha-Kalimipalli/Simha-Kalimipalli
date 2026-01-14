@@ -1,15 +1,19 @@
-### Hi there 👋 I am Simha.
+### Hi there 👋 I am Simha Kalimipalli!
 
-[![Simha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
+I've recently completed by B.A.Sc from the University of Waterloo in Systems Design Engineering. 
 
-I'm interested in Data Science and Geo-analytics. My primary focus is in Multi-Domain Machine Learning research roles. Check out some of the things I've hacked below:
+I'm current a Master's student at the University of Toronto researching image generation techniques such as Generative Adversarial Networks to predict radiotherapy dosage for Patient Specific Quality Assurance. 
 
+I'm interested in Multi-Domain Machine Learning research using techniques such as text classification, object detection, LLM/RAG systems, and time series analysis. 
+
+My research interest areas include applications to transportation, energy and healthcare infrastructure. 
+
+
+. Check out some of the things I've made below:
 
 <!--https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simha-Kalimipalli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Please find my code below:
@@ -18,16 +22,5 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.co
 -->
 
 <!--
-**Simha-Kalimipalli/Simha-Kalimipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+commment
 -->

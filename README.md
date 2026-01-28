@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Simha Kalimipalli!
 
-I've recently completed by B.A.Sc from the University of Waterloo in Systems Design Engineering. 
+I've recently completed my B.A.Sc from the University of Waterloo in Systems Design Engineering. 
 
 I'm currently a Master's student at the University of Toronto researching image generation techniques such as Generative Adversarial Networks to predict radiotherapy dosage for Patient Specific Quality Assurance. 
 
